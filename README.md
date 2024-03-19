@@ -1,1 +1,1 @@
-This is the first project on writing a simple program
+This is my first time learning abourt search algoriths
