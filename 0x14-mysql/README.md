@@ -1,1 +1,1 @@
-This is my fist time working with my sql
+This is my first database with mySQL
